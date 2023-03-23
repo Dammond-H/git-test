@@ -1,0 +1,14 @@
+package com.atguigu.git;
+
+/**
+ * @author 黄林强
+ * @version 1.0
+ * @date 2023/3/23 19:05
+ * @description
+ */
+public class GitTest {
+
+    public static void main(String[] args) {
+        System.out.println("hello world");
+    }
+}
