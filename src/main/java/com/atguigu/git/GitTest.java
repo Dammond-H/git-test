@@ -19,6 +19,8 @@ public class GitTest {
         System.out.println("hox-fix test");
         // 推送远程库练习
         System.out.println("push remote original");
+        // pull远程库练习
+        System.out.println("pull remote original");
 
     }
 }
