@@ -17,6 +17,8 @@ public class GitTest {
         System.out.println("master second test");
         System.out.println("hox-fix test");
         System.out.println("hox-fix test");
+        // 推送远程库练习
+        System.out.println("push remote original");
 
     }
 }
